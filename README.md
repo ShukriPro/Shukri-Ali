@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Shukri Ali
+- 👋 Hi, My name is Shukri Ali ( ShukriPro )
 - 👀 I’m interested in Application IOS, MOBILE and Web Aplication.
 - 🌱 I’m currently learning C#, T-SQL and other .NET Framework
 - 💞️ I’m looking for job in New Zealand
